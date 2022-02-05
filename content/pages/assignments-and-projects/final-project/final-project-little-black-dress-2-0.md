@@ -6,7 +6,18 @@ title: 'Final Project: Little Black Dress 2.0'
 uid: ac818d6c-563d-f45a-f35a-abd7ec170986
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-tunable-stiffness-structures) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-responsive-fabric) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-tunable-stiffness-structures)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-responsive-fabric) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### By Xiao Xiao and Elena Jessop
 
@@ -95,4 +106,15 @@ The battery belt.
 
 Finally, it is interesting to reflect on the difference in mindset when working on a textiles electronics project versus a traditional electronics project. Working with textile electronics gives people the impression that they are working with handicrafts and not "hard engineering". When working on our project, we found ourselves treating it more like a craft project than actual circuitry. We were less rigorous than perhaps we should have been with making sure our connections are robust and we did not test our work as much throughout the process (something that got us into trouble several times). While idea of crafting lowers the entrance barrier of working with electronics-- people are less intimidated and perceive projects to be less difficult-- it also inadvertently causes people to be less careful. The lesson for us from all this is that in the future, we will make sure to be more meticulous with our work, to test early, often, and to completion. A bigger lesson and an idea to explore in the future is how to encourage people who are starting out in e-textiles to maintain a methodical approach to soft-circuit design and building.
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-tunable-stiffness-structures) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-responsive-fabric) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-tunable-stiffness-structures)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-responsive-fabric) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

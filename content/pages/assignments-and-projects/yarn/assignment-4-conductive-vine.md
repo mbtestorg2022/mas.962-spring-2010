@@ -6,7 +6,18 @@ title: 'Assignment 4: Conductive Vine '
 uid: 27e2601c-ca9e-b8d0-81eb-15fa95de3926
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-spinning) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-digital-quipu) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-spinning)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-digital-quipu) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Xiao Xiao_
 
@@ -52,4 +63,15 @@ Notes
 
 I was happy with how the yarn turned out. I also like how the variated Cascade Fixation gave my yarn a gentle gradient between light and dark green. If I were to do this again, I would use even small-sized needles to knit the tube because sometimes the extra conductive yarn on the inside peeks out a little bit when the yarn is in relaxed position.
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-spinning) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-digital-quipu) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-spinning)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-digital-quipu) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

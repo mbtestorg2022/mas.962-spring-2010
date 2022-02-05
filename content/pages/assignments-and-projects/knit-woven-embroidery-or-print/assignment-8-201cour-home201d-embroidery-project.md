@@ -6,7 +6,18 @@ title: 'Assignment 8: "Our Home" Embroidery Project'
 uid: 3195c5f0-7d93-000d-659f-ac026d394629
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-blossom-from-rhino-to-bernina) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-sassy-embroidery) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-blossom-from-rhino-to-bernina)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-sassy-embroidery) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Anonymous MIT student_
 
@@ -32,4 +43,15 @@ Images from embroidery process & results
 
 I used two sheets of the stiffening fabric behind the fabric to be embroidered on. It took about 21 minutes to embroider the drawing of the house. I had so much fun watching it happen! I wish that I used a solid color for the fabric, but that's a minor detail.
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-blossom-from-rhino-to-bernina) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-sassy-embroidery) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-blossom-from-rhino-to-bernina)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-sassy-embroidery) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

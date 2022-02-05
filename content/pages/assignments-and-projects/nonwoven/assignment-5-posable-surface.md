@@ -6,7 +6,18 @@ title: 'Assignment 5: Posable Surface'
 uid: 5edba3bc-d722-e600-3a71-61b4af68e278
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/nonwoven/assignment-5-the-hyperbolic-paraboloidesque-silicone-lamp) | Next: Return to [Assignment 5 description]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/nonwoven/assignment-5-the-hyperbolic-paraboloidesque-silicone-lamp)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 5 description]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By anonymous student_
 
@@ -59,4 +70,15 @@ Conclusion
 
 There is promise in the use of posable textiles in the development of complex mathematical surfaces. However, I think there are better ways to do it then using felt. Perhaps casting a steel wire skeleton in silicon would have been more expedient and possibly more usable in the end. But my quest to discover new uses of felt emerges somewhat victorious none the less!
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/nonwoven/assignment-5-the-hyperbolic-paraboloidesque-silicone-lamp) | Next: Return to [Assignment 5 description]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/nonwoven/assignment-5-the-hyperbolic-paraboloidesque-silicone-lamp)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 5 description]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

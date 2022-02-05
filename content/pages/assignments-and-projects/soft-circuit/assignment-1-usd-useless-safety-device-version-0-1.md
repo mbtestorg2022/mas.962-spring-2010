@@ -6,7 +6,18 @@ title: 'Assignment 1: USD (Useless Safety Device)'
 uid: fac07c50-fc85-ba7c-d005-d8046af7cac2
 ---
 
-| « Previous: [Assignment 1 description]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-amys-whale-monster) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 1 description]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-amys-whale-monster) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Sarah Witt_
 
@@ -54,4 +65,15 @@ So. In conclusion, we found that an intricate and carefully stitched circuitry o
 
 It is totally safe, and totally recommended for the hyposafetiac in you.
 
-| « Previous: [Assignment 1 description]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-amys-whale-monster) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 1 description]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-amys-whale-monster) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

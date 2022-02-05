@@ -6,7 +6,18 @@ title: 'Assignment 6: Wrist-based Way-finding'
 uid: 77520b74-548a-605c-22bd-5f4919a9b598
 ---
 
-| « Previous: Return to [Assignment 6 description]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) | Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-hello-u.s.a.) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 6 description]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-hello-u.s.a.) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _New Textiles students: Dawn Wendell, Rizal Muslimin and anonymous student  
 Communicating with Mobile Technologies students: Thomas Lipoma and anonymous MIT student_
@@ -58,4 +69,15 @@ Code
 BDR Standalone ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding/bdr_standalone_code.txt))  
 BDR Integrated ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding/bdr_integrated_code.txt))
 
-| « Previous: Return to [Assignment 6 description]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) | Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-hello-u.s.a.) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 6 description]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-hello-u.s.a.) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

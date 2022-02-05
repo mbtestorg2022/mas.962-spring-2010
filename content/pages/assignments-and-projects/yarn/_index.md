@@ -6,7 +6,18 @@ title: 'Assignment 4: Yarn'
 uid: 89220475-f26b-95a1-2be5-4f3479ca391a
 ---
 
-| « Previous: [Assignment 3: "Hello World" Fabric PCBs, Part 2]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2) | Next: [Assignment 5: Nonwoven]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 3: "Hello World" Fabric PCBs, Part 2]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [Assignment 5: Nonwoven]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For this assignment you will make a yarn that consists of two or more different materials. You should make at least 2 yards of yarn.
 

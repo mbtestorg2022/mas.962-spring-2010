@@ -6,7 +6,18 @@ title: 'Final Project: Sneaky Slippers'
 uid: 1d37c63e-6e4d-91ff-be65-4633c880458b
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-responsive-fabric) | Next: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-responsive-fabric)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### By Dawn Wendell
 
@@ -103,4 +114,15 @@ Lessons Learned / Future Ideas
 *   Insulation in textiles is a real challenge. I had several shorting issues, especially when I tried burying the wires into the felted knitting and I forgot where I put them. Oops!
 *   The slippers would benefit from a light sensor so that the LEDs don't come on unless it is dark.
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-responsive-fabric) | Next: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-responsive-fabric)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -6,7 +6,18 @@ title: 'Assignment 3: Fractal Tree Bag'
 uid: 5af02bea-0868-c0fa-845e-79cc65770c1e
 ---
 
-| « Previous: Return to [Assignment 3 description]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 3 description]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Elena Jessop, Dawn Wendell and two anonymous MIT students_
 
@@ -112,4 +123,15 @@ Contributions
 *   Dawn: initial circuit design, pressure sensor, documentation
 *   Anonymous student: stroke sensor, artistic elements
 
-| « Previous: Return to [Assignment 3 description]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 3 description]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -6,7 +6,15 @@ title: 'Assignment 1: Soft Circuit'
 uid: 8e4ca487-a319-4264-15bf-db3ebc623ff8
 ---
 
-| Next: [Assignment 2: "Hello World" Fabric PCBs, Part 1]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-1) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Next: [Assignment 2: "Hello World" Fabric PCBs, Part 1]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-1) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Using the materials and tools introduced in the first three classes, construct an interactive circuit out of soft materials. Your circuit should contain at least one output (like an LED or motor) and one sensor. See the [Related Resources]({{< baseurl >}}/pages/related-resources) page for helpful links.
 

@@ -6,7 +6,18 @@ title: 'Final Project: Responsive Fabric'
 uid: 9b8eb804-4d19-7104-6776-2a49da5972ee
 ---
 
-| « Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-sneaky-slippers) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-sneaky-slippers) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### By Rizal Muslimin  
  
@@ -72,4 +83,15 @@ Lessons learned
 
 Many thanks to Leah for the guidance and troubleshooting the code and the circuit; and also to Marcelo for the idea of this project. This is certainly one of the best classes I ever took.
 
-| « Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-sneaky-slippers) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-sneaky-slippers) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

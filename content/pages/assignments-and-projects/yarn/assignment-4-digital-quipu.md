@@ -6,7 +6,18 @@ title: 'Assignment 4: Digital Quipu '
 uid: 41b42985-b4b1-f26c-1c9f-f4c9e926ac9c
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine) | Next: Return to [Assignment 4 description]({{< baseurl >}}/pages/assignments-and-projects/yarn) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 4 description]({{< baseurl >}}/pages/assignments-and-projects/yarn) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Rizal Muslimin_
 
@@ -37,4 +48,15 @@ Close up view of the yarn.
 
 Special thanks to Ayu for helping me out.
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine) | Next: Return to [Assignment 4 description]({{< baseurl >}}/pages/assignments-and-projects/yarn) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 4 description]({{< baseurl >}}/pages/assignments-and-projects/yarn) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

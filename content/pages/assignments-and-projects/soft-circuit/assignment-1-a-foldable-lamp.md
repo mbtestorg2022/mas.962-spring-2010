@@ -6,7 +6,18 @@ title: 'Assignment 1: A Foldable Lamp'
 uid: b8f488be-0db7-ec35-0142-4740591230f7
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-amys-whale-monster) | Next: Return to [Assignment 1 description]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-amys-whale-monster)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 1 description]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By anonymous student_
 
@@ -30,4 +41,15 @@ The fabric lamp in use, OFF (top photo) and ON (bottom photo).
 
 In the future I would use much brighter LEDs for this project. I have ordered some bright white devices that I plan to wire into the project in order to provide more light. Also, the pressure sensor is currently working as an analog switch. With a little more development it could be utilized to provide a dimming function. Unfortunately, the LEDs are not bright enough to give that luxury.
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-amys-whale-monster) | Next: Return to [Assignment 1 description]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-amys-whale-monster)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 1 description]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

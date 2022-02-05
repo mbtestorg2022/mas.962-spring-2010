@@ -6,7 +6,18 @@ title: 'Assignment 1: Amy''s Whale Monster'
 uid: 4e354258-4b1a-c7ec-f8c5-aa84732d2e29
 ---
 
-| « Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-a-foldable-lamp) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-a-foldable-lamp) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Amy LeMessurier  
 _
@@ -25,4 +36,15 @@ Stroke sensor on the tail.
 
 Close-up of the stroke sensor.
 
-| « Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-a-foldable-lamp) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/soft-circuit/assignment-1-a-foldable-lamp) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

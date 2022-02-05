@@ -6,7 +6,18 @@ title: 'Assignment 7: Little Black Dress 2.0'
 uid: 325c8300-e49b-ffca-daff-60275584f0fc
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-sneaky-slippers) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-sneaky-slippers) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### By Xiao Xiao and Elena Jessop
 
@@ -20,4 +31,15 @@ This textile allows for flexibility of self-representation through personal styl
 
 Proposal presentation ([PDF - 1.2MB]({{< baseurl >}}/resources/mitmas_962s10_assn7_dress))
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-sneaky-slippers) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-sneaky-slippers) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

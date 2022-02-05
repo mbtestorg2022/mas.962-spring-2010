@@ -6,7 +6,18 @@ title: 'Assignment 8: Blossom: From Rhino to Bernina'
 uid: 6326c223-46e3-e782-b580-37758deb8ac5
 ---
 
-| « Previous: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Rizal Muslimin_
 
@@ -47,4 +58,15 @@ After the pattern was converted to \*.AI files, all the algorithmic logic is als
 
 Blossoms as produced on the Bernina machine.
 
-| « Previous: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

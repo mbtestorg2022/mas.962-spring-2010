@@ -6,7 +6,18 @@ title: 'Assignment 8: Sassy Embroidery'
 uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project) | Next: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### By Sarah Witt
 

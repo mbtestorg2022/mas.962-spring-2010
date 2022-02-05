@@ -6,7 +6,18 @@ title: 'Assignment 7: Tunable Stiffness Materials'
 uid: 4ff1a061-ee49-b42a-4530-6742c237f680
 ---
 
-| « Previous: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) | Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### By Nadia Cheng
 
@@ -41,4 +52,15 @@ Timeline
 *   Week 3: (I will be out of town for a conference, so I will have to do this week's task before or after this time period) Construct 3D silicone grid with line heating sources
 *   Week 4: Tie up loose ends (figuratively and maybe literally), final presentation!
 
-| « Previous: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) | Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

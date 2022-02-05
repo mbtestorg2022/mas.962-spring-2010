@@ -6,7 +6,18 @@ title: 'Assignment 8: Knit, Woven, Embroidery, or Print'
 uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 ---
 
-| « Previous: [Assignment 7: Final Project Proposal]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) | Next: [Assignment 9: Final Project]({{< baseurl >}}/pages/assignments-and-projects/final-project) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 7: Final Project Proposal]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [Assignment 9: Final Project]({{< baseurl >}}/pages/assignments-and-projects/final-project) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Knit, weave, embroider or print a novel textile. Create a page that documents your project and add your project link to this page. Your page should contain pictures and a paragraph or two that describes your project and discusses how it was made.
 

@@ -6,7 +6,18 @@ title: 'Assignment 6: Networked Wearable'
 uid: 202ac8dd-885c-dd02-7531-38f0e50235da
 ---
 
-| « Previous: [Assignment 5: Nonwoven]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) | Next: [Assignment 7: Final Project Proposal]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 5: Nonwoven]({{< baseurl >}}/pages/assignments-and-projects/nonwoven)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [Assignment 7: Final Project Proposal]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For this assignment you will work in teams, in collaboration with the _21W.789 Communicating with Mobile Technology_ class, to build a textile that talks to a mobile phone. With your team you should create a webpage that documents your project. Your page should include pictures and a discussion of your experience. Also create a short video of your project in action; post the video online (Vimeo, YouTube, or your own site) and include a link to your video in your documentation page.
 

@@ -6,7 +6,18 @@ title: 'Assignment 3: PCButterfly'
 uid: 1805af5b-ecab-6b00-7d48-946d9bb9cafe
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2/fractal-tree-bag) | Next: Return to [Assignment 3 description]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2/fractal-tree-bag)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 3 description]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Xiao Xiao and two anonymous MIT students_
 
@@ -78,4 +89,15 @@ The day before the project was due, we were testing the chip and accidentally sh
 
 It is relatively easy to dislodge the soldered connections with minor manipulation. It is very useful to have a multi-meter on hand to test individual connections.
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2/fractal-tree-bag) | Next: Return to [Assignment 3 description]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2/fractal-tree-bag)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 3 description]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

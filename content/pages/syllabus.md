@@ -24,41 +24,431 @@ Kadolph, S. J., and A. L. Langford. _Textiles_. 10th ed. Upper Saddle River, NJ:
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Weekly assignments | 60% |
-| Final project | 30% |
-| Class participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly assignments
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Summary Calendar
 ----------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Conductive textiles | Assignment 1 (soft circuit) start |
-| 3 | Textile sensors | &nbsp; |
-| 4 | Fabric PCBs, part 1 |  {{< br >}}{{< br >}} Assignment 1 due {{< br >}}{{< br >}} Assignment 2 (fabric PCB part 1) start {{< br >}}{{< br >}}  |
-| 5 | Guest lecture by Marcelo Coelho, MIT Media Lab | &nbsp; |
-| 6 | Fabric PCBs, part 2 |  {{< br >}}{{< br >}} Assignment 2 due {{< br >}}{{< br >}} Assignment 3 (fabric PCB part 2) start {{< br >}}{{< br >}}  |
-| 7 | Guest lecture by Prof. Yoel Fink, MIT Materials Science and Engineering | &nbsp; |
-| 8 | Fibers and yarns |  {{< br >}}{{< br >}} Assignment 3 due {{< br >}}{{< br >}} Assignment 4 (yarn) start {{< br >}}{{< br >}}  |
-| 9 | Guest lecture by Greg Rutledge, MIT Chemical Engineering | &nbsp; |
-| 10 | Spinning workshop | &nbsp; |
-| 11 | Nonwovens |  {{< br >}}{{< br >}} Assignment 4 due {{< br >}}{{< br >}} Assignment 5 (nonwoven) start {{< br >}}{{< br >}}  |
-| 12 | Wearable computing, part 1 (joint class with 21W.789 _Communicating with Mobile Technology)_ |  {{< br >}}{{< br >}} Assignment 5 due {{< br >}}{{< br >}} Assignment 6 (networked wearable) start {{< br >}}{{< br >}}  |
-| 13 | Guest lecture by Tricia Wilson Nguyen | &nbsp; |
-| 14 | Wearable computing, part 2 (joint class with 21W.789 _Communicating with Mobile Technology_) | Assignment 7 (final project proposal) start |
-| 15 | Guest lecture by Despina Papadopoulos, Studio 5050, NYU | &nbsp; |
-| 16 | Wearable computing assignment presentations, with 21W.789 _Communicating with Mobile Technology_ | Assignment 6 due |
-| 17 | Embroidery and printing | &nbsp; |
-| 18 | Guest lecture by Rehmi Post and Kit Waal, MIT | &nbsp; |
-| 19 | Final project proposal presentations |  {{< br >}}{{< br >}} Assignment 7 due {{< br >}}{{< br >}}  |
-| 20 | Guest lecture by Becky Stern, MAKE and CRAFT | &nbsp; |
-| 21 | Knitting and weaving | Assignment 8 (knit, woven, embroidery or print) start |
-| 22 | Guest lecture by Anne Whiston Spirn, MIT | &nbsp; |
-| 23 | Field trip to the RISD Textile department | &nbsp; |
-| 24 | Knit, woven, embroidery presentations | Assignment 8 due |
-| 25 |  {{< br >}}{{< br >}} Pattern design {{< br >}}{{< br >}} Guest lecture by Sheila Kennedy {{< br >}}{{< br >}}  | &nbsp; |
-| 26 | Visit from Kelly Dobson's "Textile Futures" class @ RISD | &nbsp; |
-| 27 | Final project presentations | Assignment 9 Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Conductive textiles
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 (soft circuit) start
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Textile sensors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Fabric PCBs, part 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 1 due
+
+Assignment 2 (fabric PCB part 1) start
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Marcelo Coelho, MIT Media Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Fabric PCBs, part 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 2 due
+
+Assignment 3 (fabric PCB part 2) start
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Prof. Yoel Fink, MIT Materials Science and Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fibers and yarns
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 3 due
+
+Assignment 4 (yarn) start
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Greg Rutledge, MIT Chemical Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Spinning workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Nonwovens
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 4 due
+
+Assignment 5 (nonwoven) start
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Wearable computing, part 1 (joint class with 21W.789 _Communicating with Mobile Technology)_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 5 due
+
+Assignment 6 (networked wearable) start
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Tricia Wilson Nguyen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Wearable computing, part 2 (joint class with 21W.789 _Communicating with Mobile Technology_)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 (final project proposal) start
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Despina Papadopoulos, Studio 5050, NYU
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Wearable computing assignment presentations, with 21W.789 _Communicating with Mobile Technology_
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Embroidery and printing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Rehmi Post and Kit Waal, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Final project proposal presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 7 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Becky Stern, MAKE and CRAFT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Knitting and weaving
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 (knit, woven, embroidery or print) start
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Anne Whiston Spirn, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the RISD Textile department
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Knit, woven, embroidery presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pattern design
+
+Guest lecture by Sheila Kennedy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Visit from Kelly Dobson's "Textile Futures" class @ RISD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

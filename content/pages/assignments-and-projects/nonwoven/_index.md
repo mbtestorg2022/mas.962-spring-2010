@@ -6,7 +6,18 @@ title: 'Assignment 5: Nonwoven'
 uid: d8eb9e0f-dc2e-dea8-e428-1018fad1877d
 ---
 
-| « Previous: [Assignment 4: Yarn]({{< baseurl >}}/pages/assignments-and-projects/yarn) | Next: [Assignment 6: Networked Wearable]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 4: Yarn]({{< baseurl >}}/pages/assignments-and-projects/yarn)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [Assignment 6: Networked Wearable]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Make a piece of flexible nonwoven fabric at least 12"x12" (~30cm x 30cm) with some noteworthy characteristic. (An unusual blend of materials, interesting structural characteristics, embedded circuitry, special electrical properties,...?)
 

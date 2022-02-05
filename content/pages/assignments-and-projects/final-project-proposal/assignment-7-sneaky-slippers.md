@@ -6,7 +6,18 @@ title: 'Assignment 7: Sneaky Slippers'
 uid: 9b09f59f-329e-9e05-bf20-936335d35957
 ---
 
-| « Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0) | Next: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### By Dawn Wendell
 
@@ -18,4 +29,15 @@ My concept for the final project is to create textile slippers that have integra
 
 Proposal presentation ([PDF]({{< baseurl >}}/resources/mitmas_962s10_assn7_slipr))
 
-| « Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0) | Next: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

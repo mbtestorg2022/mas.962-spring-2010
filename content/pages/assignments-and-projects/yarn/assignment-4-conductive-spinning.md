@@ -6,7 +6,18 @@ title: 'Assignment 4: Conductive Spinning'
 uid: 837de706-f282-d1c9-dae9-a23bbf743ca2
 ---
 
-| « Previous: Return to [Assignment 4 description]({{< baseurl >}}/pages/assignments-and-projects/yarn) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 4 description]({{< baseurl >}}/pages/assignments-and-projects/yarn)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Dawn Wendell_
 
@@ -33,15 +44,84 @@ Yarn Specifications
 
 The following properties of the yarn were measured:
 
-| Properties | Measurements |
-| --- | --- |
-| Diameter | 2-5 mm |
-| Total yarn length | 2.03 m |
-| Ply | 2 |
-| Fiber length | 95 mm |
-| Twist direction | S-twist |
-| Twist | 3-4 turns/inch |
-| Conductivity | 1 ohm/inch 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Properties
+{{< thclose >}}
+{{< thopen >}}
+Measurements
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Diameter
+{{< tdclose >}}
+{{< tdopen >}}
+2-5 mm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total yarn length
+{{< tdclose >}}
+{{< tdopen >}}
+2.03 m
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ply
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fiber length
+{{< tdclose >}}
+{{< tdopen >}}
+95 mm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Twist direction
+{{< tdclose >}}
+{{< tdopen >}}
+S-twist
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Twist
+{{< tdclose >}}
+{{< tdopen >}}
+3-4 turns/inch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Conductivity
+{{< tdclose >}}
+{{< tdopen >}}
+1 ohm/inch
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Extra Credit Measurements: Tex
 ------------------------------
@@ -57,4 +137,15 @@ Thoughts, Improvements, Suggestions
 *   The metal fibers seem soft at first, but the definitely "shed" more, so little bits of metal ended up all around where I was spinning. Also, I found that I couldn't run my hand along the roving as tightly with the steel because it was more prickly than the wool when being held tightly.
 *   Plying magnifies any inconsistencies in your tension from spinning. Luckily art yarns are very pretty! :-)
 
-| « Previous: Return to [Assignment 4 description]({{< baseurl >}}/pages/assignments-and-projects/yarn) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 4 description]({{< baseurl >}}/pages/assignments-and-projects/yarn)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

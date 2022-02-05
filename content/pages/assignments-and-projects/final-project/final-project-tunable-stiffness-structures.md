@@ -6,7 +6,18 @@ title: 'Final Project: Tunable Stiffness Structures'
 uid: 2ef710c0-7770-3f67-93ac-542bcc7dbcc7
 ---
 
-| « Previous: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project) | Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### By Nadia Cheng
 
@@ -142,4 +153,15 @@ Afterthoughts
 
 As it typically is with research, many of my tests and experiments presented here lead me to more unanswered questions and possibilities for improvements. However, I greatly appreciate how this project gave me an especially creative space for exploring materials; I found myself frequently coming up with more ideas for things to try (for instance, I did not initially plan on integrating heating elements into traditional textiles, but look at the awesome results I got!). In a way, this project got me really excited about my research because it helped me see how I can use my crafting interests and creativity to benefit my technical work; it's always great to be reminded that these things are not always mutually exclusive! This last point is true for my experience throughout the New Textiles class; I felt like I was always doing things I would do for fun outside of my technical work rather than doing work for a class. I'm going to miss it!
 
-| « Previous: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project) | Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -6,7 +6,15 @@ title: 'Assignment 9: Final Project'
 uid: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
 ---
 
-| « Previous: [Assignment 8: Knit, Woven, Embroidery, or Print]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 8: Knit, Woven, Embroidery, or Print]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For more information on the scope of final projects, see [Assigment 7: Final Project Proposal]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal). The final project consists of two components, a presentation and written documentation.
 

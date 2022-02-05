@@ -6,7 +6,18 @@ title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
 uid: 07150280-b359-779b-1938-dee9a2f53f99
 ---
 
-| « Previous: Return to [Assignment 5 description]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) | Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/nonwoven/assignment-5-posable-surface) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: Return to [Assignment 5 description]({{< baseurl >}}/pages/assignments-and-projects/nonwoven)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/nonwoven/assignment-5-posable-surface) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By anonymous student_
 

@@ -6,7 +6,18 @@ title: 'Assignment 3: "Hello World" Fabric PCBs, Part 2'
 uid: 65b98bff-a576-b7e8-689b-c6366c1e63d3
 ---
 
-| « Previous: [Assignment 2: "Hello World" Fabric PCBs, Part 1]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-1) | Next: [Assignment 4: Yarn]({{< baseurl >}}/pages/assignments-and-projects/yarn) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 2: "Hello World" Fabric PCBs, Part 1]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-1)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [Assignment 4: Yarn]({{< baseurl >}}/pages/assignments-and-projects/yarn) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For this assignment you will work in teams to create an artifact that includes a fabric PCB. The artifact should include an ATtiny13 microcontroller, at least two outputs and at least one digital (switch) input. A picture of the circuit that I made is below. You can use this circuit as a starting point, but you should not just turn in an identical copy. You should modify my circuit in some way and/or incorporate it into a larger project by, for example, sewing it into a garment.
 

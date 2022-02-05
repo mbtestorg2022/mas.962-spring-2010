@@ -6,7 +6,18 @@ title: 'Assignment 7: Final Project Proposal'
 uid: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a
 ---
 
-| « Previous: [Assignment 6: Networked Wearable]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) | Next: [Assignment 8: Knit, Woven, Embroidery, or Print]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [Assignment 6: Networked Wearable]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: [Assignment 8: Knit, Woven, Embroidery, or Print]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For your final project, you should explore a specific set of materials, techniques, or applications in depth. You are very welcome (in fact encouraged) to work in groups. The project could take many different forms, including:
 

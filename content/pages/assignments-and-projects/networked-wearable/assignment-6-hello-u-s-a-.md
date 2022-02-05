@@ -6,7 +6,18 @@ title: 'Assignment 6: Hello U.S.A.!!'
 uid: d9c64252-0aba-741e-8bc3-ef40039896ca
 ---
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding) | Next: Return to [Assignment 6 description]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) » 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 6 description]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _By Yang Yang and three anonymous MIT students_  
 
@@ -42,4 +53,15 @@ The back of the map. The LEDs are sewn positive leg to horizontal and ground to 
 
 The LilyPad layer set over the charlieplex felt layer. This is the final layer that has the conductive thread connecting from the LilyPad to the charlieplex grid at the edges of the felt.
 
-| « Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding) | Next: Return to [Assignment 6 description]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) »
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding)
+{{< tdclose >}}
+{{< tdopen >}}
+Next: Return to [Assignment 6 description]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable) »
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
