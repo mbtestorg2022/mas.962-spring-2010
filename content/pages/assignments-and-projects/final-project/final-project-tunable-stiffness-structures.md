@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 9: Final Project'
+parent_type: CourseSection
 parent_uid: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
 title: 'Final Project: Tunable Stiffness Structures'
 uid: 2ef710c0-7770-3f67-93ac-542bcc7dbcc7

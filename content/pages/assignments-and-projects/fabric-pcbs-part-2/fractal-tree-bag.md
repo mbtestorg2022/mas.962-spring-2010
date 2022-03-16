@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 3: "Hello World" Fabric PCBs, Part 2'
+parent_type: CourseSection
 parent_uid: 65b98bff-a576-b7e8-689b-c6366c1e63d3
 title: 'Assignment 3: Fractal Tree Bag'
 uid: 5af02bea-0868-c0fa-845e-79cc65770c1e
@@ -101,7 +105,7 @@ The AVR Programming
 
 The code was designed to flash between all the outputs when there were no inputs, and if an input was detected, then only one LED would light up. The code was first tested on one of the pre-made circuits from the in-class demo before being loaded onto the ATtiny13 microcontroller installed on our bag circuit.
 
-Our code ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/fractal-tree-bag/bag_code.txt))
+Our code ([TXT]({{< baseurl >}}/resources/bag_code))
 
 Lessons Learned
 ---------------

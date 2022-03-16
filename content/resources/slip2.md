@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Final Project: Sneaky Slippers'
+parent_type: CourseSection
+parent_uid: 1d37c63e-6e4d-91ff-be65-4633c880458b
 resourcetype: Image
 title: slip2.jpg
 uid: 85a3739c-9f18-985f-2ff8-9df545edb904

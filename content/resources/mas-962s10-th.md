@@ -9,6 +9,8 @@ image_metadata:
   credit: ''
   image-alt: Photo of a hand holding a small fabric square with a "printed circuit"
     pattern of connectors on it.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: mas-962s10-th.jpg
 uid: 0d9151fe-d9e9-4fe9-eb87-6a02d6727cc9

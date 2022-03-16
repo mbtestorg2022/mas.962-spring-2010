@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 8: Knit, Woven, Embroidery, or Print'
+parent_type: CourseSection
 parent_uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 title: 'Assignment 8: Sassy Embroidery'
 uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc

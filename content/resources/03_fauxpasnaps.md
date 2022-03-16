@@ -11,6 +11,12 @@ image_metadata:
     seams, exuding perfection.
   credit: 'Credit: Photo by Sarah Witt'
   image-alt: "Drawing of \u2018faux pas dinner napkin\u2019 concept. "
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 03_fauxpasnaps.jpg
 uid: fcbac004-54ff-986c-1ea9-82240f01a9c3

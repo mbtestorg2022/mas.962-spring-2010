@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Final Project: Tunable Stiffness Structures'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tunable Stiffness Structures: steel yarn in wax'
 uid: 0e415dbe-e193-62f6-576c-c8b83d390fff

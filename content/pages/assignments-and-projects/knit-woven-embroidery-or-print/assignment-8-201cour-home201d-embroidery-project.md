@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 8: Knit, Woven, Embroidery, or Print'
+parent_type: CourseSection
 parent_uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 title: 'Assignment 8: "Our Home" Embroidery Project'
 uid: 3195c5f0-7d93-000d-659f-ac026d394629

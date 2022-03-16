@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 5: Nonwoven'
+parent_type: CourseSection
 parent_uid: d8eb9e0f-dc2e-dea8-e428-1018fad1877d
 title: 'Assignment 5: Posable Surface'
 uid: 5edba3bc-d722-e600-3a71-61b4af68e278

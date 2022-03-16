@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Laser Cutter Tutorial
+parent_type: CourseSection
+parent_uid: b8152aef-691c-0825-0ce2-97f34c7b6768
 resourcetype: Image
 title: laser_on_off.jpg
 uid: 8ae8fbaa-57b8-8be6-88d6-9ffbc9c04bdd

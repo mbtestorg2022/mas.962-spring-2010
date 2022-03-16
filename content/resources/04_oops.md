@@ -12,6 +12,12 @@ image_metadata:
   credit: 'Credit: Photo by Sarah Witt'
   image-alt: "Drawing of a \u2018faux pas dinner napkin\u2019 around a diner\u2019\
     s neck."
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 04_oops.jpg
 uid: 088f28fe-11ae-0493-2cb9-5a084a9a2d02

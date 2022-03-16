@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Assignment 8: Blossom: From Rhino to Bernina'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Blossom algorithm animation
 uid: f63ba829-b202-569b-ae37-556a97585a02

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 8: Knit, Woven, Embroidery, or Print'
+parent_type: CourseSection
 parent_uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 title: 'Assignment 8: Blossom: From Rhino to Bernina'
 uid: 6326c223-46e3-e782-b580-37758deb8ac5

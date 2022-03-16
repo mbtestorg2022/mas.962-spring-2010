@@ -9,6 +9,12 @@ image_metadata:
     at the edges of the surface so contacts can be made there to the lamp stand.
   credit: 'Credit: Photo courtesy of anonymous student.'
   image-alt: Photo of whitish silicone in the mold.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
+parent_type: CourseSection
+parent_uid: 07150280-b359-779b-1938-dee9a2f53f99
 resourcetype: Image
 title: jl6.jpg
 uid: e0ce75fb-89a9-ca1d-5137-2e47769e6f43

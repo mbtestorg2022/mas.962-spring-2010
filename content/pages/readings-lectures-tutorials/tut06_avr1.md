@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Readings, Lectures & Tutorials
+parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: 'AVR Programming Tutorial, Part 1: Downloading Programs'
 uid: 4bbdee6e-bb42-6142-21cf-13f92a364c47
@@ -36,11 +39,12 @@ Download and unzip NewTextilesAVR.zip ([ZIP](https://courses.media.mit.edu/2010s
 
 On a Mac, go to the Applications→Utilities folder and open Terminal.app.
 
-On a PC, go the Start menu and select Run. Then type cmd in the text box that pops up.
+On a PC, go the Start menu and select Run. Then type `cmd`
+ in the text box that pops up.
 
 **5\. Navigate to the code folder within the NewTextilesAVR folder or "directory"**
 
-On a Mac, type the following command: cd Desktop/NewTextilesAVR/code
+On a Mac, type the following command: `cd Desktop/NewTextilesAVR/code`
 
 The cd stands for "change directory".
 
@@ -70,7 +74,7 @@ NOTE: IF YOUR CHIP IS GETTING HOT AFTER YOU ATTACH IT, UNPLUG EVERYTHING IMMEDIA
 
 **7\. Program your chip.**
 
-Type the following command in Terminal: make clean && make && make install
+Type the following command in Terminal: `make clean && make && make install`
 
 If all goes well, the LED on your fabric circuit should begin to blink.
 

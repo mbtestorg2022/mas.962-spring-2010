@@ -8,6 +8,12 @@ image_metadata:
   credit: 'Credit: Photo by Sarah Witt'
   image-alt: "Photo of the prior \u2018Welcome\u2019 embroidery, showing it was on\
     \ the front of a dress laid out neatly on the floor (as if the dress is a doormat)."
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 11_peoplemat.jpg
 uid: aee7f510-d537-631e-ae58-c94d81820859

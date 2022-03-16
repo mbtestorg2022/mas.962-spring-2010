@@ -15,6 +15,12 @@ image_metadata:
   image-alt: "Backlit white embroidered fabric with the word \u2018filthy\u2019 in\
     \ script, and the caption \u201Ca little light on the situation always helps.\u201D\
     ."
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 13_filthybacklit.jpg
 uid: d2f59aba-da35-f556-72d4-3ef174c6e4ae

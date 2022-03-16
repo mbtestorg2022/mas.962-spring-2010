@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 7: Final Project Proposal'
+parent_type: CourseSection
 parent_uid: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a
 title: 'Assignment 7: Sneaky Slippers'
 uid: 9b09f59f-329e-9e05-bf20-936335d35957

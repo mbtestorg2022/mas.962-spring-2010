@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Final Project: Little Black Dress 2.0'
+parent_type: CourseSection
+parent_uid: ac818d6c-563d-f45a-f35a-abd7ec170986
 resourcetype: Image
 title: thermochromic.jpg
 uid: 1aa382b0-016d-6b91-516a-49648f50f9c1

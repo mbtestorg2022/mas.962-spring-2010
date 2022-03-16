@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Final Project: Tunable Stiffness Structures'
+parent_type: CourseSection
+parent_uid: 2ef710c0-7770-3f67-93ac-542bcc7dbcc7
 resourcetype: Image
 title: Final_textiles_Nadia.jpg
 uid: 7eb3c6ac-b090-ae8a-0881-85550612149e

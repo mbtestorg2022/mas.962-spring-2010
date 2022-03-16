@@ -9,6 +9,12 @@ image_metadata:
     grass and a group of students I teach.
   credit: 'Credit: Photo by Sarah Witt'
   image-alt: Close-up photo of blades of grass.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 08_grass.jpg
 uid: b72d3bf4-c386-f1cb-0f22-3edaaeeccc1b

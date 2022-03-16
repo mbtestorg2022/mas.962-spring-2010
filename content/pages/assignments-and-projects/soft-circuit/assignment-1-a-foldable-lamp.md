@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 1: Soft Circuit'
+parent_type: CourseSection
 parent_uid: 8e4ca487-a319-4264-15bf-db3ebc623ff8
 title: 'Assignment 1: A Foldable Lamp'
 uid: b8f488be-0db7-ec35-0142-4740591230f7

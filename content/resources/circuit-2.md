@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Final Project: Little Black Dress 2.0'
+parent_type: CourseSection
+parent_uid: ac818d6c-563d-f45a-f35a-abd7ec170986
 resourcetype: Image
 title: circuit.jpg
 uid: 6bdbac83-bd9e-35f6-3f14-9705844bb738

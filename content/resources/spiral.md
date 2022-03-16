@@ -7,6 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 4: Conductive Vine '
+parent_type: CourseSection
+parent_uid: 27e2601c-ca9e-b8d0-81eb-15fa95de3926
 resourcetype: Image
 title: spiral.jpg
 uid: 7a295081-43f2-f690-2b4e-be38c670785f

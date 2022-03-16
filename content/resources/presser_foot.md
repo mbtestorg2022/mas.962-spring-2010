@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Embroidery Machine Tutorial, Part 2: The Machine'
+parent_type: CourseSection
+parent_uid: dac7dbe9-bb2e-33c6-6027-a326888523c0
 resourcetype: Image
 title: presser_foot.jpg
 uid: 5fa19959-60e8-214d-0a7b-602426467b5d

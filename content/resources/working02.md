@@ -7,6 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 6: Wrist-based Way-finding'
+parent_type: CourseSection
+parent_uid: 77520b74-548a-605c-22bd-5f4919a9b598
 resourcetype: Image
 title: working02.jpg
 uid: da978b68-063b-3791-e737-906aed8fd3cb

@@ -7,6 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 1: A Foldable Lamp'
+parent_type: CourseSection
+parent_uid: b8f488be-0db7-ec35-0142-4740591230f7
 resourcetype: Image
 title: lamp_1.gif
 uid: a945a472-028b-5051-5464-738b3cad398f

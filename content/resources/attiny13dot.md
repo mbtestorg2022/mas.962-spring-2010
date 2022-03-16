@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'AVR Programming Tutorial, Part 1: Downloading Programs'
+parent_type: CourseSection
+parent_uid: 4bbdee6e-bb42-6142-21cf-13f92a364c47
 resourcetype: Image
 title: ATtiny13Dot.png
 uid: 9cb0a6e4-6d84-cd73-bbd7-3d23e25025a5

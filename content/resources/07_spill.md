@@ -19,6 +19,12 @@ image_metadata:
   image-alt: Photo of model diner with embroidered napkin tucked into their shirt
     collar. A computer-simulated spill makes the embroidered words on the napkin become
     legible.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 07_spill.jpg
 uid: 64632474-d657-b582-3923-8e9b978e692a

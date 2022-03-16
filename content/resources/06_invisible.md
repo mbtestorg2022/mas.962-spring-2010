@@ -14,6 +14,12 @@ image_metadata:
   credit: 'Credit: Photo by Sarah Witt'
   image-alt: Photo of model diner with embroidered napkin tucked into their shirt
     collar, about to spill liquid on the napkin.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 06_invisible.jpg
 uid: 9f658681-4997-3bf2-af54-beaaea190182

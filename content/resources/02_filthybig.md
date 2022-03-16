@@ -14,6 +14,12 @@ image_metadata:
   credit: 'Credit: Photo by Sarah Witt'
   image-alt: "Photo of a triangular piece of white fabric, embroidered with the world\
     \ \u2018filthy\u2019 in script."
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 02_filthybig.jpg
 uid: 990e04a4-d63f-4772-4699-d72002e0f49a

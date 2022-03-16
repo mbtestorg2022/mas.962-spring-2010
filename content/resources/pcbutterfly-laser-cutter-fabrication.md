@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Assignment 3: PCButterfly'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: PCButterfly laser cutter fabrication
 uid: 9034c6e0-6225-b0a8-0898-25fc43c17a4e

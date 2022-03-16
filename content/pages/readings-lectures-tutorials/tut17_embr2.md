@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Readings, Lectures & Tutorials
+parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: 'Embroidery Machine Tutorial, Part 2: The Machine'
 uid: dac7dbe9-bb2e-33c6-6027-a326888523c0

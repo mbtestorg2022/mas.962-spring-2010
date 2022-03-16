@@ -7,6 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 3: Fractal Tree Bag'
+parent_type: CourseSection
+parent_uid: 5af02bea-0868-c0fa-845e-79cc65770c1e
 resourcetype: Image
 title: soldering.jpg
 uid: c7c87f36-84b5-cc37-45e5-e7f5339ce8b8

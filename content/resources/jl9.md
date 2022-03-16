@@ -8,6 +8,12 @@ image_metadata:
   credit: 'Credit: Photo courtesy of anonymous student.'
   image-alt: Photo of the lamp base connected to the silicone mold with alligator
     clips, and lights in the silicone turned on.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
+parent_type: CourseSection
+parent_uid: 07150280-b359-779b-1938-dee9a2f53f99
 resourcetype: Image
 title: jl9.jpg
 uid: ffc88f9f-4b74-43d3-7baa-621ef78ba8d9

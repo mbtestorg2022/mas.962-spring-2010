@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 1: Soft Circuit'
+parent_type: CourseSection
 parent_uid: 8e4ca487-a319-4264-15bf-db3ebc623ff8
 title: 'Assignment 1: Amy''s Whale Monster'
 uid: 4e354258-4b1a-c7ec-f8c5-aa84732d2e29

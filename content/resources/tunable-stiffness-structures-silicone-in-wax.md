@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Final Project: Tunable Stiffness Structures'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tunable Stiffness Structures: silicone in wax'
 uid: aa166deb-a9f0-d14e-7126-734259aa21e7

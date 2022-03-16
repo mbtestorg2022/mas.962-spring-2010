@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Final Project: Tunable Stiffness Structures'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Tunable Stiffness Structures: muslin in wax'
 uid: 4ffb6bb5-ff5b-cdd4-de93-2d43f9649738

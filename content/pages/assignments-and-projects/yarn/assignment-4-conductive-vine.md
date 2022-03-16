@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 4: Yarn'
+parent_type: CourseSection
 parent_uid: 89220475-f26b-95a1-2be5-4f3479ca391a
 title: 'Assignment 4: Conductive Vine '
 uid: 27e2601c-ca9e-b8d0-81eb-15fa95de3926

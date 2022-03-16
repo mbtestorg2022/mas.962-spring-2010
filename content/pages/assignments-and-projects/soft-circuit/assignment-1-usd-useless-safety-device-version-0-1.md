@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 1: Soft Circuit'
+parent_type: CourseSection
 parent_uid: 8e4ca487-a319-4264-15bf-db3ebc623ff8
 title: 'Assignment 1: USD (Useless Safety Device)'
 uid: fac07c50-fc85-ba7c-d005-d8046af7cac2

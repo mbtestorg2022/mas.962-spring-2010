@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Final Project
+parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 7: Final Project Proposal'
 uid: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a

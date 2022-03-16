@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 4: Yarn'
+parent_type: CourseSection
 parent_uid: 89220475-f26b-95a1-2be5-4f3479ca391a
 title: 'Assignment 4: Digital Quipu '
 uid: 41b42985-b4b1-f26c-1c9f-f4c9e926ac9c

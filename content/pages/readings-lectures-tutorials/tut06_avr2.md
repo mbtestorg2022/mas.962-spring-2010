@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Readings, Lectures & Tutorials
+parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: 'AVR Programming Tutorial, Part 2: Writing Programs'
 uid: a860002e-582c-fa35-4e45-5b5e787595e0
@@ -29,13 +32,13 @@ Comments Area
 
 At the top of the page there is a comment section that gives some basic information about the program. This section is ignored by the computer. It's just there to give us humans some information about the file. In general, a comment is a piece of text that is ignored by the computer. Comments can be anywhere in your program. There are two different ways to create comments:
 
-\\\* Anything in between a slash and an asterisk and then
+`\\\* Anything in between a slash and an asterisk and then`
 
-an asterisk and a slash, like this statement is a comment \*\\
+`an asterisk and a slash, like this statement is a comment \*\&grave;
 
 OR
 
-\\\\ A sigle line of text that follows two slashes like this line is also a comment.
+`\\\\ A sigle line of text that follows two slashes like this line is also a comment.`
 
 ### Setup Area 1
 
@@ -53,22 +56,28 @@ Identify pin b0 on the diagram. Notice that in addition to b0 there are b1, b2, 
 
 For every program that you create, you need to include a statement like b0Output() for every pin you would like to use to read information from a switch or to control an output device. Here's what those statements look like:
 
-b1Output(); this statement sets up pin b1 to control an output like a light or motor
+`b1Output();`
+ this statement sets up pin b1 to control an output like a light or motor
 
-b3Input(); this statement sets up pin b3 to read information from a switch
+`b3Input();`
+ this statement sets up pin b3 to read information from a switch
 
 Main Action Area
 ----------------
 
 This section is where the main action of our program takes place. In this piece of code we have 4 lines:
 
-b0High(); this statement sets pin b0 to 5 volts. For our circuit this turns the LED attached to b0 ON.
+`b0High();`
+ this statement sets pin b0 to 5 volts. For our circuit this turns the LED attached to b0 ON.
 
-\_delay\_ms(1000); this statement tells the ATtiny to do nothing for 1 second (1000 milliseconds)
+`\_delay\_ms(1000);`
+ this statement tells the ATtiny to do nothing for 1 second (1000 milliseconds)
 
-b0Low(); this statement sets pin b0 to 0 volts or ground. For our circuit this turns the LED OFF.
+`b0Low();`
+ this statement sets pin b0 to 0 volts or ground. For our circuit this turns the LED OFF.
 
-\_delay\_ms(1000); this statement tells the ATtiny to do nothing for 1 second (1000 milliseconds)
+`\_delay\_ms(1000);`
+ this statement tells the ATtiny to do nothing for 1 second (1000 milliseconds)
 
 Let's look at the fabric PCB circuit to see why this piece of code would cause the LED on our board to light up. Here's what the circuit looks like (view from above):
 
@@ -88,7 +97,7 @@ Structure of the blink.c program.
 
 **3\. Edit the code to get the LED to blink at a different speed.**
 
-To upload your edited code to your circuit, type the following command in Terminal: make && make install
+To upload your edited code to your circuit, type the following command in Terminal: `make && make install`
 
 **4\. Use alligator clips to attach a second LED to pin b3 and edit the code to get that LED to blink.**
 

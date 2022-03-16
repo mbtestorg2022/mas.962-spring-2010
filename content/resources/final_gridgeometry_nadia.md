@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Final Project: Tunable Stiffness Structures'
+parent_type: CourseSection
+parent_uid: 2ef710c0-7770-3f67-93ac-542bcc7dbcc7
 resourcetype: Image
 title: Final_gridgeometry_Nadia.jpg
 uid: a9793577-e0aa-d0e4-67e3-b2501df93751

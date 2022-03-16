@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Laser Cutter Tutorial
+parent_type: CourseSection
+parent_uid: b8152aef-691c-0825-0ce2-97f34c7b6768
 resourcetype: Image
 title: LaserFocusingTool.jpg
 uid: 7c307214-3b41-1214-cbde-78c08dd1d73d

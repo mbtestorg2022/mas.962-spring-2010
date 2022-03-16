@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Final Project
+parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 3: "Hello World" Fabric PCBs, Part 2'
 uid: 65b98bff-a576-b7e8-689b-c6366c1e63d3

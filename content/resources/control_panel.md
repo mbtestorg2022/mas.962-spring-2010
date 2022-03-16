@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Laser Cutter Tutorial
+parent_type: CourseSection
+parent_uid: b8152aef-691c-0825-0ce2-97f34c7b6768
 resourcetype: Image
 title: control_panel.jpg
 uid: 55d24872-e03b-7f7f-fc0d-7c25d525db3a

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Assignment 8: Blossom: From Rhino to Bernina'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Blossom on the Bernina embroidery machine
 uid: fe0dade5-002f-a711-a2e1-cfa4f374809c

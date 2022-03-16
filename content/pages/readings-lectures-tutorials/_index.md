@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings, Lectures & Tutorials
 uid: e974bd1a-9897-6b46-896a-13de54082f58
 ---
@@ -7,7 +9,7 @@ uid: e974bd1a-9897-6b46-896a-13de54082f58
 Lectures and Readings
 ---------------------
 
-\[Kadolph and Langford\] = Kadolph, S. J., and A. L. Langford. _Textiles_. 10th ed. Upper Saddle River, NJ: Prentice Hall, 2007. ISBN: 9780131187696.
+\[Kadolph and Langford\] = Kadolph, S. J., and A. L. Langford. _Textiles_. 10{{< sup "th" >}} ed. Upper Saddle River, NJ: Prentice Hall, 2007. ISBN: 9780131187696.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -294,7 +296,7 @@ gawara. "Mongolian Felt Making." May 27, 2006. YouTube. Access October 6, 2010. 
 
 Wearable computing, part 1 (joint class with 21W.789 _Communicating with Mobile Technology_)
 
-\- Materials: Arduino, AndroidTM
+\- Materials: Arduino, Android{{< sup "TM" >}}
 
 \- Techniques: networking
 

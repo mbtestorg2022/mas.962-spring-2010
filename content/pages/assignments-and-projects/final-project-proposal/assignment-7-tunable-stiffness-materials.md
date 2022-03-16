@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 7: Final Project Proposal'
+parent_type: CourseSection
 parent_uid: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a
 title: 'Assignment 7: Tunable Stiffness Materials'
 uid: 4ff1a061-ee49-b42a-4530-6742c237f680

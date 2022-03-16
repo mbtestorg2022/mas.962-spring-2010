@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Final Project: Responsive Fabric'
+parent_type: CourseSection
+parent_uid: 9b8eb804-4d19-7104-6776-2a49da5972ee
 resourcetype: Image
 title: rm-procedure.jpg
 uid: 6f3b0ed7-d146-1fc2-da74-c761df6a5441
