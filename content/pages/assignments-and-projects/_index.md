@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments and Final Project
 uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 ---

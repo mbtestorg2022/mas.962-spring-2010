@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Readings, Lectures & Tutorials
 uid: e974bd1a-9897-6b46-896a-13de54082f58
 ---

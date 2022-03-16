@@ -11,6 +11,7 @@ image_metadata:
     pattern of connectors on it.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: mas-962s10-th.jpg
 uid: 0d9151fe-d9e9-4fe9-eb87-6a02d6727cc9
