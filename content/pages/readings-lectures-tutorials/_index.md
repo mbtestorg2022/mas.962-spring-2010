@@ -47,7 +47,7 @@ Introduction
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mitmas_962s10_lec01))
+Slides ([PDF - 1.7MB]({{< baseurl >}}/resources/mitmas_962s10_lec01))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -70,7 +70,7 @@ Conductive textiles
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitmas_962s10_lec02))
+Slides ([PDF]({{< baseurl >}}/resources/mitmas_962s10_lec02))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -93,7 +93,7 @@ Techniques: sensor design
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 10.3MB]({{< baseurl >}}/resources/mitmas_962s10_lec03))(Courtesy of Hannah Perner-Wilson. Used with permission.
+Slides ([PDF - 10.3MB]({{< baseurl >}}/resources/mitmas_962s10_lec03))(Courtesy of Hannah Perner-Wilson. Used with permission.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -123,7 +123,7 @@ Fabric PCBs, part 1
 Fabric PCB tutorial ([PDF]({{< baseurl >}}/resources/mitmas_962s10_tut04_fabpcb))
 {{< tdclose >}}
 {{< tdopen >}}
-Buechley, L., and Eisenberg, M. "Fabric PCBs, Electronic Sequins, and Socket Buttons: Techniques for E-textile Craft." _Journal of Personal and Ubiquitous Computing_, 13, no. 2 (2009): 133-150. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://hlt.media.mit.edu/publications/buechley_PUC_07.pdf))
+Buechley, L., and Eisenberg, M. "Fabric PCBs, Electronic Sequins, and Socket Buttons: Techniques for E-textile Craft." _Journal of Personal and Ubiquitous Computing_, 13, no. 2 (2009): 133-150. ([PDF](http://hlt.media.mit.edu/publications/buechley_PUC_07.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +210,7 @@ Fibers and yarns
 {{< tdopen >}}
 
 
-Fiber slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitmas_962s10_lec08_fiber))
+Fiber slides ([PDF]({{< baseurl >}}/resources/mitmas_962s10_lec08_fiber))
 
 Yarn slides ([PDF]({{< baseurl >}}/resources/mitmas_962s10_lec08_yarn))
 
@@ -581,7 +581,7 @@ princesteve. "Flat pattern to 3D." October 31, 2006. YouTube. Accessed October 5
 safakmakina. "Band knife cutting machine 2." January 31, 2008. YouTube. Access October 5, 2010.  
 [www.youtube.com/watch?v=OoHwkHWKg5w](http://www.youtube.com/watch?v=OoHwkHWKg5w)
 
-Garmento.org. "Origins of the sewing machine - a time line." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://garmenco.org/mg311/History%20of%20the%20Sewing%20Machine.pdf))
+Garmento.org. "Origins of the sewing machine - a time line." ([PDF](http://garmenco.org/mg311/History%20of%20the%20Sewing%20Machine.pdf))
 
 Pattern making software
 
